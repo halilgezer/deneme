@@ -13,3 +13,4 @@ git bir versiyon kontrol sistemidir.
 * git clone >klonla
 * git checkout >durumu sorgula 
 * git rm
+### git kullanımı komutları anlatıldı.
